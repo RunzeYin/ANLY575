@@ -1,0 +1,17 @@
+id,"firstname","lastname","email","password",approved
+1,"Ava","Bale","ab@georgetown.edu","",0
+2,"Cade","Dabi","cd@georgetown.edu","",0
+3,"Eb","Farli","ef@georgetown.edu","",0
+4,"Ganin","Hakaku","gh@georgetown.edu","",0
+5,"Iacovo","Jacques","ij@georgetown.edu","",0
+6,"Kaley","Lance","kl@georgetown.edu","",0
+7,"Morty","Nicki","mn@georgetown.edu","",0
+8,"Obama","Patrick","op@georgetown.edu","",0
+9,"Queen","Rock","qr@georgetown.edu","",0
+10,"Selena","Trevor","st@georgetown.edu","",0
+11,"Uniqlo","Vin","uv@georgetown.edu","",0
+12,"Lisa","Kudrow","lk@666.com","",0
+13,"Gengis","Kahn","gengis@kahn.com","",0
+14,"Runze","Yin","ry180@georgetown.edu","$2y$10$4XW.jlxlK6fxGItewgmk3OJ.aEVLSAXKsmc1.Q3iQ4KDY2bl.i2f2",1
+15,"Test","Test","TT@123.com","$2y$10$pnAy9qvqBujdxUrz1F6iCe4B6Mu2r1rwoeUdOXJldoEPqI5r3XAVC",1
+16,"123","12345","123@123.com","$2y$10$ClIsi37a4gbKcqrVn2Ix4OD.XMiuSYU/yDZPf7Wnk.MYy0kc5X6xS",0

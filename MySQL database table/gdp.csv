@@ -1,0 +1,14 @@
+id,"WEO_country_group_code","country_group_name",gdp,"units","scale",percent_change
+1,"001","World",84537.688,"U.S. dollars","Billions",-3.267
+2,"110","Advanced economies",50595.130,"U.S. dollars","Billions",-4.713
+3,"163","Euro area",12916.618,"U.S. dollars","Billions",-6.596
+4,"119","Major advanced economies (G7)",38622.672,"U.S. dollars","Billions",-5.046
+5,"123","Other advanced economies (Advanced economies excluding G7 and euro area)",7344.248,"U.S. dollars","Billions",-2.101
+6,"998","European Union",15167.815,"U.S. dollars","Billions",-6.122
+7,"200","Emerging market and developing economies",33942.558,"U.S. dollars","Billions",-2.198
+8,"505","Emerging and developing Asia",20671.149,"U.S. dollars","Billions",-1.026
+9,"903","Emerging and developing Europe",3650.167,"U.S. dollars","Billions",-2.037
+10,"511","ASEAN-5",2602.867,"U.S. dollars","Billions",-3.393
+11,"205","Latin America and the Caribbean",4315.982,"U.S. dollars","Billions",-7.012
+12,"400","Middle East and Central Asia",3682.821,"U.S. dollars","Billions",-2.856
+13,"603","Sub-Saharan Africa",1622.440,"U.S. dollars","Billions",-1.932
